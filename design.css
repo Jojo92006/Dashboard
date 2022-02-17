@@ -1,0 +1,272 @@
+*{
+margin: 0px;
+padding: 0px;
+}
+h1.SS{
+    color: bisque;
+}
+.HP{
+    background-image: url(photos/b1.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 650px;
+}
+.teacher {
+    margin-left: 400px;
+    
+}
+.student{
+    margin-left: 800px;
+    margin-top: -170px;
+    
+}
+h2{
+    color: azure;
+    margin-left: 40px;
+    font-size: 30px;
+}
+
+a.st{
+    color: azure;
+    text-decoration: none;
+    margin-left: -20px
+}
+.grade{
+    background-image: url(photos/b2.png);
+    height: 625px;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.Secondary{
+    background-image: url(photos/b3.jpg);
+    height: 625px;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+h1{
+    text-align: center;
+    color: deeppink;
+    font-size: 50px;
+}
+h3{
+    margin-left: 200px;
+    margin-top: 100px;
+    font-family: sans-serif;
+    font-size: 40px;
+    color: darkblue;
+}
+h3.prep{ 
+    margin-left: 500px;
+    
+}
+h3.sec{
+    margin-left: 900px
+}
+a.sec, a.sec1{
+    text-decoration: none;
+    color: darkblue;
+}
+.bg4{
+    background-color: lightcyan;
+    height: 625px;
+}
+img.imgst{
+    height: 100px;
+    width: 100px;
+    border-radius: 100px;
+    border: 2px solid black;
+    background-size: cover;
+    background-position: center;
+    margin-left: 200px;
+
+}
+.g1 , .g2{
+    display: flex;
+    margin: 50px;
+    margin-left: 300px;
+}
+.st2 , .st4{
+    margin-left: 200px
+}
+h4{
+    font-size: 25px;
+}
+a.st1{
+    text-decoration: none;
+    color: black;
+}
+.bg{
+    background-image: url(photos/SI%20bg.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 650px;   
+}
+.bg h1{
+    margin-top: -500px;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    color: papayawhip;
+    font-size: 60px
+}
+.signIn{
+    justify-content: center;
+    align-items: center;
+    background-color: plum;
+    display: flex;
+    margin-left: 300px;
+    margin-right: 250px;
+    margin-top: -500px;
+    padding: 20px;
+}
+button{
+    padding: 10px;
+    margin-left: 10px;
+}
+.signIn a{
+    text-decoration: none;
+    color: black
+}
+div.navbar{
+    display: flex;
+    justify-content: center;    
+    align-items: center;
+    background-color: darkturquoise;
+}
+div.navbar a{
+    color: aliceblue;
+    margin: 30px;
+    text-decoration: none;
+    text-align: center;
+    font-size: 25px;
+}
+div.navbar img{
+    margin-left: -400px;
+    margin-right: 150px;
+}
+div.profile img{
+    height: 100px;
+    width: 100px;
+    border-radius: 100px;
+    border: 2px solid black;
+    background-size: cover;
+    background-position: center;
+    margin-left: 100px;
+}
+div.profile{
+    margin-left: 100px;
+    margin-right: 950px;
+    margin-top: 10px;
+    background-color: lightcoral;
+    padding: 10px;
+    padding-bottom: 20px;
+}
+.profile h4{
+    text-align: center;
+    
+}
+.profile p{
+    text-align: center;
+    font-size: 20px;
+}
+img.attend{
+    margin-left: 600px;
+    margin-top: -250px;
+}
+.leader{
+    border: 3px solid black;
+    background-color: palevioletred;
+    margin: 20px;
+    margin-right: 900px;
+    padding: 20px;
+    border-radius: 30px;
+    font-size: 20px;
+    font-family: arial;
+    font-style: bold;
+    margin-left: 50px;
+    
+}
+.fees{
+    background-color: burlywood;
+    border: 2px solid black;
+    border-radius: 50px;
+    margin-left: 800px;
+    margin-right: 400px;
+    padding: 20px;
+    margin-top: -100px;
+    text-align: center;
+    font-size: 25px;
+}
+.math{
+    margin-left: 30px;
+    margin-top: 20px;
+}
+.math a, .english a , .arabic a, .chemistry a , .biology a, .physics a, .history a, .geography a{
+    margin-left: 50px;
+    font-size: 30px;
+    text-decoration: none;
+    color: black;
+}
+.books h2{
+    color: mediumblue;
+    font-size: 40px;
+    text-align: center;
+    margin-left: -15px
+}
+.english{
+    margin-left: 400px;
+    margin-top: -200px;
+}
+.english img{
+    margin-left: 18px;
+}
+.arabic{
+    margin-left: 800px;
+    margin-top: -170px;
+}
+.arabic a{
+    margin-left: 20px;
+}
+.chemistry{
+    margin-left: 1100px;
+    margin-top: -160px;
+}
+.chemistry a{
+    margin-left: -10px;
+}
+.biology{
+    margin-left: 30px;
+    margin-top: 50px;
+    margin-bottom: 20px;
+}
+.physics{
+    margin-left: 400px;
+    margin-top: -230px;
+}
+.history{
+    margin-left: 800px;
+    margin-top: -200px;
+}
+.geography{
+    margin-left: 1100px;
+    margin-top: -180px;
+}
+.geography a{
+    margin-left: -10px;
+}
+img.mt, img.my, img.total{
+    margin: 20px;
+    margin-left: 300px;
+}
+.HW{
+    margin: 30px;
+}
+p.MHW, p.SHW, p.SSHW, p.AHW, p.EHW{
+    padding: 20px;
+    margin: 30px;
+    background-color: darksalmon;
+    border: 2px solid black;
+    margin-right: 800px;
+    border-radius: 30px;
+    font-size: 20px;
+}
